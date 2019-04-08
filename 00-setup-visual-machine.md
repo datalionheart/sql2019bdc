@@ -52,5 +52,5 @@ Set-VMDvdDrive -VMName $VMName `
     -ControllerLocation 0 `
     -Path $ISOImage
 ```
-> ![](.\graphics\01.png)
+> ![](./graphics/01.png)
 
