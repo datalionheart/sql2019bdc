@@ -1,43 +1,43 @@
 # CentOS 7 Installation by GUI
 ## 1. Boot Image
 Choose: Install CentOS 7<br/>
-![](.\graphics\02.png)
+![](./graphics/02.png)
 ## 2. Language
 Choose: Keep default <br/>
-![](.\graphics\03.png)
+![](./graphics/03.png)
 ## 3. Date & Time
-![](.\graphics\04.png)
+![](./graphics/04.png)
 Asia -> Shanghai<br/>
-![](.\graphics\05.png)
+![](./graphics/05.png)
 ## 4. Installation Destination
 Custom Partition:<br/>
 SWAP: 8192MB<br/>
 BOOT(/boot): 512MB<br/>
 ROOT(/): All<br/>
-![](.\graphics\06.png)<br/>
-![](.\graphics\07.png)<br/>
-![](.\graphics\08.png)<br/>
-![](.\graphics\09.png)<br/>
-![](.\graphics\10.png)
+![](./graphics/06.png)<br/>
+![](./graphics/07.png)<br/>
+![](./graphics/08.png)<br/>
+![](./graphics/09.png)<br/>
+![](./graphics/10.png)
 ## 5. Disable KDUMP
-![](.\graphics\11.png)
+![](./graphics/11.png)
 ## 6. Disable Security Policy
-![](.\graphics\12.png)
+![](./graphics/12.png)
 ## 7. Setting Host Name
-![](.\graphics\13.png)
+![](./graphics/13.png)
 ## 8. Setting Network
-![](.\graphics\14.png)
-![](.\graphics\15.png)
+![](./graphics/14.png)
+![](./graphics/15.png)
 ## 9. Review Configuration and Begin for Installation
-![](.\graphics\16.png)
+![](./graphics/16.png)
 ## 10. Setting password for account root
-![](.\graphics\17.png)<br/>
-![](.\graphics\18.png)
+![](./graphics/17.png)<br/>
+![](./graphics/18.png)
 ## 11. Waiting for install, and reboot OS
-![](.\graphics\19.png)
+![](./graphics/19.png)
 ## 12. Locally and Remotely Login
-![](.\graphics\20.png)<br/>
-![](.\graphics\21.png)<br/>
+![](./graphics/20.png)<br/>
+![](./graphics/21.png)<br/>
 Done!
 
 > P.S. Sample

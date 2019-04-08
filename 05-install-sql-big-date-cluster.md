@@ -36,5 +36,5 @@ source .bash_profile
 
 mssqlctl cluster create --name sqldemo24
 ```
-![](.\graphics\98.png)<br/>
-![](.\graphics\99.png)
+![](./graphics/98.png)<br/>
+![](./graphics/99.png)
