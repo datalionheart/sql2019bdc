@@ -36,5 +36,8 @@ source .bash_profile
 
 mssqlctl cluster create --name sqldemo24
 ```
+> P.S. EAP - Early Adoption Program:<br/>
+> https://sqlservervnexteap.azurewebsites.net/ 
+
 ![](./graphics/98.png)<br/>
 ![](./graphics/99.png)
